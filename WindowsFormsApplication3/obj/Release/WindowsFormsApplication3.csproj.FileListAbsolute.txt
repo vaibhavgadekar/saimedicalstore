@@ -1,0 +1,66 @@
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.manifest
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.application
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\ControlzEx.dll
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MahApps.Metro.dll
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MetroFramework.Design.dll
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MetroFramework.dll
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\ProgressBar.dll
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\ControlzEx.pdb
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MahApps.Metro.pdb
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\MahApps.Metro.xml
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\ProgressBar.xml
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\DropDownPanelDemo.DropDawn.resources
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.HomeMenu.resources
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Login.resources
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.managemedicine.resources
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Register.resources
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe.manifest
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.application
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.customDialog.resources
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.customdia.resources
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.addMedicine.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\DropDownPanelDemo.DropDawn.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.HomeMenu.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Login.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.managemedicine.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Register.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.SplashScreen.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.addMedicine.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\DropDownPanelDemo.DropDawn.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.HomeMenu.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Login.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.managemedicine.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Register.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.SplashScreen.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.GenerateResource.cache
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.addMedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\DropDownPanelDemo.DropDawn.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.HomeMenu.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Login.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.managemedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Register.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.showMedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.SplashScreen.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.GenerateResource.Cache

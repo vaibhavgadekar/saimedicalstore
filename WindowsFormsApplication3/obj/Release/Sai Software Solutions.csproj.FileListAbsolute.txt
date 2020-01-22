@@ -1,0 +1,28 @@
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\Sai Software Solutions.csprojResolveAssemblyReference.cache
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.addCategory.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.addCompany.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.addEmployee.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.addMedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.deleteCategory.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.deleteCompany.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.deleteEmployee.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.deleteMedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\DropDownPanelDemo.DropDawn.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.genarateBill.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.HomeMenu.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Login.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.managemedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Register.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.showCategory.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.showCompany.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.showEmployee.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.showMedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.SplashScreen.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.updateCategory.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.updateCompany.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.updateEmployee.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.updateMedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\Sai Software Solutions.csproj.GenerateResource.Cache

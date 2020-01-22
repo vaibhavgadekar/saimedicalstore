@@ -1,0 +1,258 @@
+c:\users\akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.HomeMenu.resources
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.Design.dll
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.dll
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ControlzEx.dll
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.dll
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ControlzEx.pdb
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.pdb
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.xml
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\DropDownPanelDemo.DropDawn.resources
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ProgressBar.dll
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ProgressBar.xml
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Register.resources
+C:\Users\Akash\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.managemedicine.resources
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+C:\Users\Akash\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.addMedicine.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\DropDownPanelDemo.DropDawn.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.HomeMenu.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.managemedicine.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Register.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ControlzEx.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.Design.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.Fonts.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ProgressBar.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\System.Windows.Interactivity.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ControlzEx.pdb
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.pdb
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.xml
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ProgressBar.xml
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Oracle.DataAccess.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SplashScreen.resources
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.Core.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\BunifuDataViz.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\S22.Imap.dll
+F:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ControlzEx.dll
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.dll
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.Design.dll
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.dll
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.Fonts.dll
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Oracle.DataAccess.dll
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ProgressBar.dll
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\System.Windows.Interactivity.dll
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ControlzEx.pdb
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.pdb
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.xml
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ProgressBar.xml
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.addMedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\DropDownPanelDemo.DropDawn.resources
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.HomeMenu.resources
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.managemedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Register.resources
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SplashScreen.resources
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+F:\Medical Shop C# Project BAckup\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ControlzEx.dll
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.dll
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.Design.dll
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.dll
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.Fonts.dll
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ProgressBar.dll
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\System.Windows.Interactivity.dll
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ControlzEx.pdb
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.pdb
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.xml
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ProgressBar.xml
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojAssemblyReference.cache
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.addMedicine.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\DropDownPanelDemo.DropDawn.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.HomeMenu.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.managemedicine.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Register.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SplashScreen.resources
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CopyComplete
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Oracle.DataAccess.dll
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.dll
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.dll
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.xml
+F:\Mcs Project\Backup 17 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.xml
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ControlzEx.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.Design.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.Fonts.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Oracle.DataAccess.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ProgressBar.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\System.Windows.Interactivity.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ControlzEx.pdb
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.xml
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.xml
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.pdb
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.xml
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ProgressBar.xml
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.addMedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\DropDownPanelDemo.DropDawn.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.HomeMenu.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.managemedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Register.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.showMedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SplashScreen.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AdvancedDataGridView.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AdvancedDataGridView.xml
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\fr\AdvancedDataGridView.resources.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ru\AdvancedDataGridView.resources.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.updateMedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.deleteMedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2018\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.manifest
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.application
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AdvancedDataGridView.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ControlzEx.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.Design.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MetroFramework.Fonts.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Oracle.DataAccess.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ProgressBar.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\System.Windows.Interactivity.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\AdvancedDataGridView.xml
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ControlzEx.pdb
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.xml
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\EntityFramework.SqlServer.xml
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.pdb
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\MahApps.Metro.xml
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ProgressBar.xml
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\fr\AdvancedDataGridView.resources.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\ru\AdvancedDataGridView.resources.dll
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.addMedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.deleteMedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\DropDownPanelDemo.DropDawn.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.HomeMenu.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Login.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.managemedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Register.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.showMedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.SplashScreen.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.updateMedicine.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe.manifest
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.application
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.showCompany.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.deleteCompany.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.addCompany.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.updateCompany.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.addCategory.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.deleteCategory.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.showCategory.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.updateCategory.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.addEmployee.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.deleteEmployee.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.showEmployee.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.updateEmployee.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.genarateBill.resources
+F:\Medical Shop C# Project BAckup\Backup 24 feb 2019\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
